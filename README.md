@@ -1,5 +1,6 @@
 
-![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+<!-- ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif) -->
+![alt text](https://raw.githubusercontent.com/TaherSalah/final_note_tasks/mobile/assets/images/perLogo.png)
 <h1 align="center">Hi 👋, I'm Taher Salah</h1>
 <h3 align="center">Flutter developer</h3>
 I'm from Egypt, I am a front-end and Mobile Application Developer | Flutter, I really enjoy learning languages and frameworks like Flutter I also enjoy wireframing, ui, ux, and design in general.
@@ -9,7 +10,7 @@ I'm from Egypt, I am a front-end and Mobile Application Developer | Flutter, I r
 * 📱 Flutter
 * 💻 HTML, CSS, JS, bootstrap
 * 📫 How to reach me **tahersalah2016@gmail.com**
-* 📄see my portfolio **https://tahersalah.github.io/portfolio-/**
+* 📄see my portfolio **https://tahersalah.github.io/My_portfolio/**
 <!-- -  Know about my experiences [https://drive.google.com/file/d/1ffGmynm6y4ME0YSl8sUyfFZFmrvbdPrL/view?usp=sharing](https://drive.google.com/file/d/1ffGmynm6y4ME0YSl8sUyfFZFmrvbdPrL/view?usp=sharing) -->
 <!---- Connect with me ----->
 <!-- <h3 align="left"></h3> -->
