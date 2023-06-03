@@ -3,7 +3,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <h1 align="center">Hi 👋, I'm Taher Salah</h1>
-<h3 align="center">Flutter developer</h3>
+<h3 align="center">front end | Flutter developer</h3>
 I'm from Egypt, I am a front-end and Mobile Application Developer | Flutter, I really enjoy learning languages and frameworks like Flutter I also enjoy wireframing, ui, ux, and design in general.
 
 ## Skills and Experience :
