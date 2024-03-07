@@ -11,7 +11,7 @@ I'm from Egypt, I am a front-end and Mobile Application Developer | Flutter, I r
 * 📱 Flutter
 * 💻 HTML, CSS, JS, bootstrap
 * 📫 How to reach me **tahersalah2016@gmail.com**
-* 📄see my portfolio **https://taher-portfolio-rho.vercel.app/**
+* 📄see my portfolio <a href="https://linkedin.com/in/taher-salah-1a5622134/" target="blank">Portfolio</a>
 <!-- -  Know about my experiences [https://drive.google.com/file/d/1ffGmynm6y4ME0YSl8sUyfFZFmrvbdPrL/view?usp=sharing](https://drive.google.com/file/d/1ffGmynm6y4ME0YSl8sUyfFZFmrvbdPrL/view?usp=sharing) -->
 <!---- Connect with me ----->
 <!-- <h3 align="left"></h3> -->
