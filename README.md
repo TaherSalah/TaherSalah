@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Taher Salah</h1>
 <h3 align="center">front end | Flutter developer</h3>
-I'm from Egypt, I am a front-end and Mobile Application Developer | Flutter, I really enjoy learning languages and frameworks like Flutter I also enjoy wireframing, ui, ux, and design in general.
+<!-- I'm from Egypt, I am a front-end and Mobile Application Developer | Flutter, I really enjoy learning languages and frameworks like Flutter I also enjoy wireframing, ui, ux, and design in general. -->
+I'm from Egypt, I am a mobile Aplication developer using flutter framework and dart programming language I experienced in building Mobile applications.
 
 ## Skills and Experience :
 * ⚛ Dart
